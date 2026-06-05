@@ -3,6 +3,10 @@
 > AI-powered e-commerce product scraper with the Service Adapter Pattern.
 > Built with Playwright + Anthropic Claude SDK + TypeScript (strict).
 
+[![CI](https://github.com/LEO17061996/web-scraper-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/LEO17061996/web-scraper-ai/actions/workflows/ci.yml)
+[![TypeScript](https://img.shields.io/badge/TypeScript-strict-blue.svg)](tsconfig.json)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Scrape product listings from a marketplace, let Claude analyze each one
 (category, key features, price-value score, red flags), and save structured
 JSON — with production-grade resilience and cost controls throughout.
