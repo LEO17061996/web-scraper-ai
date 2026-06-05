@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build output
+dist/
+build/
+
+# Environment
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Playwright
+test-results/
+playwright-report/
+playwright/.cache/
+
+# Output data (gitignored — too large)
+examples/output/
+*.scraped.json
+
+# Internal build notes (keep local, not public)
+TIEN-DO-BUILD.md

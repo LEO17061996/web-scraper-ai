@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Laptop Gaming Acer Nitro 5 AN515 i5-12500H RTX 3050 16GB 512GB",
+    "price": 18990000,
+    "currency": "VND",
+    "rating": 4.8,
+    "reviewCount": 1200,
+    "imageUrl": "https://cf.shopee.vn/file/sample-acer-nitro5.jpg",
+    "productUrl": "https://shopee.vn/product/acer-nitro-5-an515-i5",
+    "platform": "shopee",
+    "scrapedAt": "2026-06-05T09:00:00.000Z"
+  },
+  {
+    "title": "Laptop Gaming ASUS TUF F15 i7-12700H RTX 4060 16GB 1TB 144Hz",
+    "price": 27490000,
+    "currency": "VND",
+    "rating": 4.9,
+    "reviewCount": 860,
+    "imageUrl": "https://cf.shopee.vn/file/sample-asus-tuf-f15.jpg",
+    "productUrl": "https://shopee.vn/product/asus-tuf-f15-i7-rtx4060",
+    "platform": "shopee",
+    "scrapedAt": "2026-06-05T09:00:00.000Z"
+  },
+  {
+    "title": "Laptop Gaming Lenovo LOQ 15 i5-13420H RTX 3050 8GB 512GB",
+    "price": 16490000,
+    "currency": "VND",
+    "rating": 4.7,
+    "reviewCount": 540,
+    "imageUrl": "https://cf.shopee.vn/file/sample-lenovo-loq.jpg",
+    "productUrl": "https://shopee.vn/product/lenovo-loq-15-i5-rtx3050",
+    "platform": "shopee",
+    "scrapedAt": "2026-06-05T09:00:00.000Z"
+  },
+  {
+    "title": "Laptop Gaming MSI Katana 15 i7-13620H RTX 4070 16GB 1TB",
+    "price": 33990000,
+    "currency": "VND",
+    "rating": 4.6,
+    "reviewCount": 210,
+    "imageUrl": "https://cf.shopee.vn/file/sample-msi-katana.jpg",
+    "productUrl": "https://shopee.vn/product/msi-katana-15-rtx4070",
+    "platform": "shopee",
+    "scrapedAt": "2026-06-05T09:00:00.000Z"
+  },
+  {
+    "title": "Laptop Gaming Pro Max RTX 4090 i9 64GB GIÁ SỐC THANH LÝ",
+    "price": 8990000,
+    "currency": "VND",
+    "rating": 5.0,
+    "reviewCount": 3,
+    "imageUrl": "https://cf.shopee.vn/file/sample-too-good.jpg",
+    "productUrl": "https://shopee.vn/product/gaming-pro-max-rtx4090-thanh-ly",
+    "platform": "shopee",
+    "scrapedAt": "2026-06-05T09:00:00.000Z"
+  },
+  {
+    "title": "Laptop Gaming Dell G15 5530 i7-13650HX RTX 4050 16GB 512GB",
+    "price": 22990000,
+    "currency": "VND",
+    "rating": 4.7,
+    "reviewCount": 430,
+    "imageUrl": "https://cf.shopee.vn/file/sample-dell-g15.jpg",
+    "productUrl": "https://shopee.vn/product/dell-g15-5530-rtx4050",
+    "platform": "shopee",
+    "scrapedAt": "2026-06-05T09:00:00.000Z"
+  }
+]

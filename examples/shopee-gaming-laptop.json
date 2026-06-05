@@ -1,0 +1,156 @@
+[
+  {
+    "title": "Laptop Gaming Acer Nitro 5 AN515 i5-12500H RTX 3050 16GB 512GB",
+    "price": 18990000,
+    "currency": "VND",
+    "rating": 4.8,
+    "reviewCount": 1200,
+    "imageUrl": "https://cf.shopee.vn/file/sample-acer-nitro5.jpg",
+    "productUrl": "https://shopee.vn/product/acer-nitro-5-an515-i5",
+    "platform": "shopee",
+    "scrapedAt": "2026-06-05T09:00:00.000Z",
+    "analysis": {
+      "category": "Gaming Laptop",
+      "keyFeatures": [
+        "Intel Core i5-12500H",
+        "NVIDIA RTX 3050",
+        "16GB RAM",
+        "512GB SSD",
+        "Acer Nitro 5 AN515 series"
+      ],
+      "priceValueScore": 8,
+      "redFlags": [],
+      "summary": "A well-rounded entry-level gaming laptop from a reputable brand, offering solid RTX 3050 + i5-12500H performance at a competitive price point, strongly backed by 1,200 positive reviews on Shopee."
+    }
+  },
+  {
+    "title": "Laptop Gaming ASUS TUF F15 i7-12700H RTX 4060 16GB 1TB 144Hz",
+    "price": 27490000,
+    "currency": "VND",
+    "rating": 4.9,
+    "reviewCount": 860,
+    "imageUrl": "https://cf.shopee.vn/file/sample-asus-tuf-f15.jpg",
+    "productUrl": "https://shopee.vn/product/asus-tuf-f15-i7-rtx4060",
+    "platform": "shopee",
+    "scrapedAt": "2026-06-05T09:00:00.000Z",
+    "analysis": {
+      "category": "Gaming Laptop",
+      "keyFeatures": [
+        "Intel Core i7-12700H",
+        "NVIDIA RTX 4060",
+        "16GB RAM",
+        "1TB SSD",
+        "144Hz display",
+        "ASUS TUF F15 chassis"
+      ],
+      "priceValueScore": 9,
+      "redFlags": [],
+      "summary": "A well-specified mid-to-high-end gaming laptop from a reputable brand, competitively priced for its RTX 4060 + i7-12700H configuration and strongly validated by 860 high-rating reviews on Shopee."
+    }
+  },
+  {
+    "title": "Laptop Gaming Lenovo LOQ 15 i5-13420H RTX 3050 8GB 512GB",
+    "price": 16490000,
+    "currency": "VND",
+    "rating": 4.7,
+    "reviewCount": 540,
+    "imageUrl": "https://cf.shopee.vn/file/sample-lenovo-loq.jpg",
+    "productUrl": "https://shopee.vn/product/lenovo-loq-15-i5-rtx3050",
+    "platform": "shopee",
+    "scrapedAt": "2026-06-05T09:00:00.000Z",
+    "analysis": {
+      "category": "Gaming Laptop",
+      "keyFeatures": [
+        "Intel Core i5-13420H",
+        "NVIDIA RTX 3050",
+        "8GB RAM",
+        "512GB SSD",
+        "15-inch display (Lenovo LOQ 15 series)",
+        "Lenovo LOQ branded chassis"
+      ],
+      "priceValueScore": 7,
+      "redFlags": [
+        "8GB RAM is below the recommended 16GB for a comfortable gaming experience with RTX 3050 titles",
+        "RTX 3050 is an entry-level GPU — may struggle with modern AAA titles at high settings"
+      ],
+      "summary": "A legitimate entry-level gaming laptop from Lenovo's LOQ line with solid value for budget gamers, though the 8GB RAM and RTX 3050 cap its long-term gaming headroom."
+    }
+  },
+  {
+    "title": "Laptop Gaming MSI Katana 15 i7-13620H RTX 4070 16GB 1TB",
+    "price": 33990000,
+    "currency": "VND",
+    "rating": 4.6,
+    "reviewCount": 210,
+    "imageUrl": "https://cf.shopee.vn/file/sample-msi-katana.jpg",
+    "productUrl": "https://shopee.vn/product/msi-katana-15-rtx4070",
+    "platform": "shopee",
+    "scrapedAt": "2026-06-05T09:00:00.000Z",
+    "analysis": {
+      "category": "Gaming Laptop",
+      "keyFeatures": [
+        "Intel Core i7-13620H",
+        "NVIDIA RTX 4070",
+        "16GB RAM",
+        "1TB SSD",
+        "MSI Katana 15 series"
+      ],
+      "priceValueScore": 8,
+      "redFlags": [],
+      "summary": "A well-specced mid-to-high-end gaming laptop from a reputable brand, offered at a competitive price for an RTX 4070 configuration and backed by a solid, credible review base on Shopee."
+    }
+  },
+  {
+    "title": "Laptop Gaming Pro Max RTX 4090 i9 64GB GIÁ SỐC THANH LÝ",
+    "price": 8990000,
+    "currency": "VND",
+    "rating": 5,
+    "reviewCount": 3,
+    "imageUrl": "https://cf.shopee.vn/file/sample-too-good.jpg",
+    "productUrl": "https://shopee.vn/product/gaming-pro-max-rtx4090-thanh-ly",
+    "platform": "shopee",
+    "scrapedAt": "2026-06-05T09:00:00.000Z",
+    "analysis": {
+      "category": "Gaming Laptop",
+      "keyFeatures": [
+        "Claims NVIDIA RTX 4090",
+        "Claims Intel Core i9",
+        "Claims 64GB RAM"
+      ],
+      "priceValueScore": 1,
+      "redFlags": [
+        "Price (8,990,000 VND) is implausibly low — a genuine RTX 4090 laptop costs 60,000,000–100,000,000+ VND, making this ~90% below market rate",
+        "Perfect 5.0 rating from only 3 reviews is statistically meaningless and consistent with seeded/fake review manipulation",
+        "No legitimate brand name anywhere in the title — a major red flag on a brand-sensitive, high-value product category",
+        "Clickbait wording 'GIÁ SỐC THANH LÝ' (shock price / clearance) used alongside flagship specs is a classic scam/counterfeit lure",
+        "Shopee listing URL contains 'thanh-ly' (clearance), reinforcing bait-and-switch or counterfeit risk",
+        "RTX 4090 + Core i9 + 64GB RAM combination with zero supporting specs (no storage, no display, no dimensions) suggests fabricated specifications"
+      ],
+      "summary": "This listing claims ultra-flagship specs at less than 10% of their real market price with virtually no reviews — an extremely high-risk scam or counterfeit listing that buyers should avoid entirely."
+    }
+  },
+  {
+    "title": "Laptop Gaming Dell G15 5530 i7-13650HX RTX 4050 16GB 512GB",
+    "price": 22990000,
+    "currency": "VND",
+    "rating": 4.7,
+    "reviewCount": 430,
+    "imageUrl": "https://cf.shopee.vn/file/sample-dell-g15.jpg",
+    "productUrl": "https://shopee.vn/product/dell-g15-5530-rtx4050",
+    "platform": "shopee",
+    "scrapedAt": "2026-06-05T09:00:00.000Z",
+    "analysis": {
+      "category": "Gaming Laptop",
+      "keyFeatures": [
+        "Intel Core i7-13650HX",
+        "NVIDIA RTX 4050",
+        "16GB RAM",
+        "512GB SSD",
+        "Dell G15 5530 chassis"
+      ],
+      "priceValueScore": 8,
+      "redFlags": [],
+      "summary": "A well-regarded mid-range gaming laptop from Dell with a solid 13th-gen CPU and RTX 4050 GPU, competitively priced and backed by a large, trustworthy review base on Shopee."
+    }
+  }
+]
